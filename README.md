@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IManagor
+- 👋 Hi, I’m @IManagor \ Andrey
 - 👀 I’m interested in Java Develop
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java 
