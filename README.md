@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IManagor \ Andrey
-- 👀 I’m interested in Java Develop
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java 
+- 👀 I’m interested in Unix Systems, OOP languages
+- 🌱 I’m currently learning Unix Systems, OOP languages
+- 💞️ I’m looking to collaborate on Unix Systems, OOP languages
 - 📫 How to reach me tg: @managororo 
 
 <!---
